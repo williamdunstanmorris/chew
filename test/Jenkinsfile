@@ -1,0 +1,9 @@
+/*
+JenkinsTestScript, Copyright (c) 2019 Mister. Chew
+*/
+
+pipeline {
+	agent any
+	options {
+		skipStagesAfterUnstable()
+}

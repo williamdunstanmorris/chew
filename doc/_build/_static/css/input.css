@@ -1,0 +1,13 @@
+/*
+ * Copyright (c) 2019 William Morris. Don't Steal Me.
+ */
+
+.icon.icon-home{
+    content: none;
+}
+
+.wy-side-nav-search>a {
+    content: none;
+    color: black;
+
+}

@@ -1,0 +1,11 @@
+README.md
+setup.py
+chew/__init__.py
+chew/__main__.py
+chew/classmodule.py
+chew/funcmodule.py
+chew.egg-info/PKG-INFO
+chew.egg-info/SOURCES.txt
+chew.egg-info/dependency_links.txt
+chew.egg-info/entry_points.txt
+chew.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+chew = chew.__main__:main
+
